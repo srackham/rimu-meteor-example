@@ -8,17 +8,17 @@ Install using Meteorite smart package manager (<https://github.com/oortcloud/met
 
 1. Create a new project:
 
-    mrt create meteor-example
+    mrt create rimu-meteor-example
 
-2. Copy the meteor-example project files (meteor-example.*, smart.json, smart.lock)
-   to the newly created meteor-example project directory.
+2. Copy the `meteor-example project` files (`meteor-example.*`, `smart.json`)
+   to the newly created `rimu-meteor-example` project directory.
 
-3. Install jquery and rimumarkup packages:
+3. Install `rimumarkup` package:
 
-    mrt add jquery
     mrt add rimumarkup
 
 4. Run the application:
 
     mrt
 
+5. Open the application in the browser at `http://localhost:3000/`.
