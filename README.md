@@ -1,10 +1,12 @@
 # Rimu Markup example Meteor application
 
-This simple example demonstrates client-side and server-side
-rendering of Rimu Markup (<http://rimumarkup.org/>) from within
-a Meteor (<http://www.meteor.com/>) application.
+This simple example demonstrates client-side and server-side rendering
+of Rimu Markup (<http://rimumarkup.org/>) from within a Meteor
+(<http://www.meteor.com/>) application. It  uses the _rimumarkup_
+smart package (<https://atmosphere.meteor.com/package/rimumarkup>).
 
-Install using Meteorite smart package manager (<https://github.com/oortcloud/meteorite/>):
+Install this application using Meteorite smart package manager
+(<https://github.com/oortcloud/meteorite/>):
 
 1. Create a new project:
 
